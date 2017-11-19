@@ -1,0 +1,2 @@
+GPIO2 ON
+GPIO3 ON

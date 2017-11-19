@@ -1,0 +1,8 @@
+Temp Living 21,6
+Temp Keuken 20,7
+Temp HalBeneden 20
+Temp HalBoven 20,6
+Temp Slaapkamer 20,4
+Temp Logeerkamer 20,6
+Temp Badkamer 20,5
+Temp Buiten 18,5
