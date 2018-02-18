@@ -178,6 +178,19 @@
 
         </div>
       </div><!-- /row -->
+      
+      <!-- Second ROW OF BLOCKS -->     
+      <div class="row">
+      	<!-- DONUT CHART BLOCK -->
+        <div class="col-sm-3 col-lg-3">
+        	<div class="dash-unit" style="margin: 0 auto">
+            	<dtitle>Het Weer</dtitle>
+            	<hr>
+            	<!-- http://www.meteo.be/meteo/view/nl/14514328-Weer+op+uw+website.html  TODO: TUNE THIS, see website -->
+            	<iframe scrolling="no" style="display:block; margin: 0 auto" frameborder="0" marginwidth="0" marginheight="0" width="160" height ="229" src ="http://www.meteo.be/services/widget/?postcode=8000&nbDay=2&type=6&lang=nl&bgImageId=0&bgColor=567cd2&scrolChoice=1&colorTempMax=ffffff&colorTempMin=A5D6FF"></iframe>
+      		</div>
+      	</div>
+      </div>
 	</div> <!-- /container -->
 	
 	<div id="footerwrap">
